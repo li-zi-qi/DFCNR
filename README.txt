@@ -1,1 +1,1 @@
-The source code will be made available as soon as the paper is accepted.
+The source code was made public on 25 Jan 2026.
